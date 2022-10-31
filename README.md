@@ -1,4 +1,4 @@
-# Data-mining-project-Data-Mining
+# Data-mining-project
 Project  - Movie Recommendations
 The dataset of this project contains Netflix movies.
 
